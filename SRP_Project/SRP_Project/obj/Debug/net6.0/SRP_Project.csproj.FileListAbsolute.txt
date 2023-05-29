@@ -1,0 +1,15 @@
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/bin/Debug/net6.0/SRP_Project
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/bin/Debug/net6.0/SRP_Project.deps.json
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/bin/Debug/net6.0/SRP_Project.runtimeconfig.json
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/bin/Debug/net6.0/SRP_Project.dll
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/bin/Debug/net6.0/SRP_Project.pdb
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/obj/Debug/net6.0/SRP_Project.csproj.AssemblyReference.cache
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/obj/Debug/net6.0/SRP_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/obj/Debug/net6.0/SRP_Project.AssemblyInfoInputs.cache
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/obj/Debug/net6.0/SRP_Project.AssemblyInfo.cs
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/obj/Debug/net6.0/SRP_Project.csproj.CoreCompileInputs.cache
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/obj/Debug/net6.0/SRP_Project.dll
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/obj/Debug/net6.0/refint/SRP_Project.dll
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/obj/Debug/net6.0/SRP_Project.pdb
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/obj/Debug/net6.0/SRP_Project.genruntimeconfig.cache
+/Users/omersahin/Desktop/SRP_Project/SRP_Project/obj/Debug/net6.0/ref/SRP_Project.dll
