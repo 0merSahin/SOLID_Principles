@@ -1,0 +1,15 @@
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/bin/Debug/net6.0/OCP_Project
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/bin/Debug/net6.0/OCP_Project.deps.json
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/bin/Debug/net6.0/OCP_Project.runtimeconfig.json
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/bin/Debug/net6.0/OCP_Project.dll
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/bin/Debug/net6.0/OCP_Project.pdb
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/obj/Debug/net6.0/OCP_Project.csproj.AssemblyReference.cache
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/obj/Debug/net6.0/OCP_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/obj/Debug/net6.0/OCP_Project.AssemblyInfoInputs.cache
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/obj/Debug/net6.0/OCP_Project.AssemblyInfo.cs
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/obj/Debug/net6.0/OCP_Project.csproj.CoreCompileInputs.cache
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/obj/Debug/net6.0/OCP_Project.dll
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/obj/Debug/net6.0/refint/OCP_Project.dll
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/obj/Debug/net6.0/OCP_Project.pdb
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/obj/Debug/net6.0/OCP_Project.genruntimeconfig.cache
+/Users/omersahin/Desktop/OCP_Project/OCP_Project/obj/Debug/net6.0/ref/OCP_Project.dll
