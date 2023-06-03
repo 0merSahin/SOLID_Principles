@@ -1,0 +1,15 @@
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/bin/Debug/net6.0/LSP_Project
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/bin/Debug/net6.0/LSP_Project.deps.json
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/bin/Debug/net6.0/LSP_Project.runtimeconfig.json
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/bin/Debug/net6.0/LSP_Project.dll
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/bin/Debug/net6.0/LSP_Project.pdb
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/obj/Debug/net6.0/LSP_Project.csproj.AssemblyReference.cache
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/obj/Debug/net6.0/LSP_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/obj/Debug/net6.0/LSP_Project.AssemblyInfoInputs.cache
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/obj/Debug/net6.0/LSP_Project.AssemblyInfo.cs
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/obj/Debug/net6.0/LSP_Project.csproj.CoreCompileInputs.cache
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/obj/Debug/net6.0/LSP_Project.dll
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/obj/Debug/net6.0/refint/LSP_Project.dll
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/obj/Debug/net6.0/LSP_Project.pdb
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/obj/Debug/net6.0/LSP_Project.genruntimeconfig.cache
+/Users/omersahin/Desktop/LSP_Project/LSP_Project/obj/Debug/net6.0/ref/LSP_Project.dll
