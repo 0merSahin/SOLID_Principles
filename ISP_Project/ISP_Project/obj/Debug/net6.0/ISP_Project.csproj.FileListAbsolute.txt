@@ -1,0 +1,15 @@
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/bin/Debug/net6.0/ISP_Project
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/bin/Debug/net6.0/ISP_Project.deps.json
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/bin/Debug/net6.0/ISP_Project.runtimeconfig.json
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/bin/Debug/net6.0/ISP_Project.dll
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/bin/Debug/net6.0/ISP_Project.pdb
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/obj/Debug/net6.0/ISP_Project.csproj.AssemblyReference.cache
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/obj/Debug/net6.0/ISP_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/obj/Debug/net6.0/ISP_Project.AssemblyInfoInputs.cache
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/obj/Debug/net6.0/ISP_Project.AssemblyInfo.cs
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/obj/Debug/net6.0/ISP_Project.csproj.CoreCompileInputs.cache
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/obj/Debug/net6.0/ISP_Project.dll
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/obj/Debug/net6.0/refint/ISP_Project.dll
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/obj/Debug/net6.0/ISP_Project.pdb
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/obj/Debug/net6.0/ISP_Project.genruntimeconfig.cache
+/Users/omersahin/Desktop/ISP_Project/ISP_Project/obj/Debug/net6.0/ref/ISP_Project.dll
