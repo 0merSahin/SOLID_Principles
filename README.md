@@ -2,4 +2,4 @@
 
 An example e-commerce application coded with 5 different SOLID principles
 <hr/>
-Project Language: EN
+<br/>Project Language: EN
